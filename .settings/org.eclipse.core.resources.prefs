@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//i18n-res/global.properties=UTF-8
+encoding//i18n-res/global_vi.properties=UTF-8
+encoding//src/poly/controller/AdminController.java=UTF-8
+encoding//src/poly/controller/DepartController.java=UTF-8
+encoding//src/poly/controller/LoginController.java=UTF-8
+encoding//src/poly/controller/MailController.java=UTF-8
+encoding//src/poly/controller/RecordController.java=UTF-8
+encoding//src/poly/controller/StaffController.java=UTF-8
+encoding/i18n-res=UTF-8
